@@ -14,5 +14,13 @@
     "content": "This is a super swirly curly queue comment, straight from the cli.",
     "createdAt": 1609453714935,
     "id": "YhnvPSBVCMgzO6k1rjMc1vDT6-_raY"
+  },
+  {
+    "userId": "user-id",
+    "name": "The User",
+    "avatar": "https://api.adorable.io/avatars/255/the-user@email.png",
+    "content": "Go home! The movie is over! �Ferris.",
+    "createdAt": 1609453747536,
+    "id": "uHDH6zakZDwNuwhnJvRFZaP-KQYK8x"
   }
 ]
