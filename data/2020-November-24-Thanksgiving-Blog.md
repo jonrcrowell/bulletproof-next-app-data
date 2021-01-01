@@ -5,3 +5,7 @@ Of course, the mashed potatoes stole the show, as they do every year.
 We skipped the cranberry sauce this time.
 
 We got a pumpkin pie from La Casita Bakery that was good but not noticeably better than the pies we get at Central Market.
+
+This is just a video. Do not watch it:
+
+<Youtube videoId="ut0pk7GqV0Y" />
