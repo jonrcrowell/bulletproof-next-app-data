@@ -14,5 +14,13 @@
     "content": "This is the second of at least eight comments.",
     "createdAt": 1609620492067,
     "id": "o4uzZuDU5BVv6UKvjWfu2SVeWb_efh"
+  },
+  {
+    "userId": "github-14331191",
+    "name": "Jon Crowell",
+    "avatar": "https://avatars1.githubusercontent.com/u/14331191?v=4",
+    "content": "It looks like we lost our Optimistic UI.",
+    "createdAt": 1609620503599,
+    "id": "5ljeYPykaj3tUSaWPpfFzMnSB5aAgE"
   }
 ]
